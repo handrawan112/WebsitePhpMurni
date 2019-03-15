@@ -1,0 +1,27 @@
+body {
+width:100%;
+height:100%;
+margin:0;
+padding-top:50%;
+left:0;
+top:0;
+}
+.judul {
+width:100%;
+text-align:center;
+border-color:green;
+background:green;
+opacity:0.5;
+color:white;
+}
+.form {
+width:100%;
+background:yellow;
+opacity:0.5;
+color:MidnightBlue;
+}
+.logKet {
+background:green;
+color:white;
+opacity:0.8;
+}

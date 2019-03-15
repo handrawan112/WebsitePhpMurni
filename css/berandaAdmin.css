@@ -1,0 +1,65 @@
+html {
+-webkit-font-size-adjust:100%;
+}
+body {
+margin:0;
+}
+.container {
+margin:0;
+padding:0;
+}
+.tetap {
+position:fixed;
+display:block;
+}
+.menu {
+width:100%;
+height:5%;
+margin-top:15%;
+left:0;
+background:black;
+color:white;
+text-align:center;
+}
+.hijau {
+background:green;
+padding:2px 4px;
+color:white;
+text-decoration:none;
+border-radius:10px;
+ -radius:10px;
+}
+.hijau:hover {
+opacity:0.5;
+color:white;
+background:black;
+}
+.sejajar {
+display:inline-block;
+}
+#isiP {
+width:100%;
+font-size:100%;
+}
+@media screen and (max-width:756px) {
+.judul {
+width:100%;
+height:10%;
+font-size:21pt;
+top:0;
+left:0;
+text-align:center;
+background:MidnightBlue;
+color:white;
+padding:1px;
+}
+.bodyContainer {
+margin-top:15%;
+}
+.inputG {
+font-size:100%;
+}
+.inputG:hover {
+font-size:100%;
+}
+}
