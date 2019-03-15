@@ -1,0 +1,90 @@
+html {
+-webkit-font-size-adjust:100%;
+}
+body {
+margin:0;
+}
+.container {
+margin:0;
+padding-left:5%;
+padding-top:27%;
+}
+.garisAtas {
+position:fixed;
+display:block;
+}
+@media screen and (max-width:768px) {
+.bacaB {
+text-decoration:none;
+padding:2px 4px;
+background:green;
+border-radius:5px;
+color:white;
+}
+.judul {
+padding-top:5%;
+padding-left:15%;
+width:100%;
+height:10%;
+top:0;
+left:0;
+font-size:17pt;
+background:url("logo.jpg");
+background-repeat:no-repeat;
+background-size:100% 100%;
+color:black;
+display:block;
+}
+.menu {
+display:inline-block;
+width:100%;
+height:5%;
+left:0%;
+top:10.5%;
+background:black;
+color:white;
+text-align:center;
+}
+.tomMenu {
+margin-left:15px;
+display:inline-block;
+width:auto;
+height:auto;
+background:none;
+color:white;
+text-decoration:none;
+}
+.tomMenu:hover {
+border-radius:5px;
+background:None;
+opacity:0.7;
+color:White;
+}
+.isi {
+padding-top:25%;
+color:Black;
+padding-left:15px;
+width:100%;
+height:100%;
+display:block;
+margin:0;
+}
+.AtList {
+padding-left:20px;
+}
+.penutup {
+padding-left:15px;
+width:100%;
+height:10%;
+text-align:center;
+display:block;
+padding:5px;
+margin:1px;
+top:0;
+left:0;
+background:black;
+color:white;
+font-size:12pt;
+margin-top:97%;
+}
+}
