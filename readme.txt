@@ -1,0 +1,2 @@
+Nama saya handrawan
+'<!DOCTYPE HTML><html><head><title>'.$judulP.'</title><meta name="viewport" content="width=device-width,initial-scale=1.0"><header><h1 class="judulH">'.$judulP.'</h1><section><div>Kategori  : <code class="kategoriH">'.$kategoriP.'</code></div><div>Terbit  : <code class="tanggalH">'.$tanggal.'</code></div><br></header></head><body><section class="isiH">'.$isiP.'</section></body><script src="ajax.js"></script></html>'
